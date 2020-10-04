@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/josep/Neobotix-Simulation/neobotix_ws/devel -DCMAKE_INSTALL_PREFIX=/home/josep/Neobotix-Simulation/neobotix_ws/install -G Unix Makefiles
