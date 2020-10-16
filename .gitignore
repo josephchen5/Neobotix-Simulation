@@ -1,0 +1,14 @@
+.vscode/
+neobotix_ws/build/
+neobotix_ws/devel/
+neobotix_ws/src/.vscode/
+neobotix_ws/src/ar_track_alvar/
+neobotix_ws/src/neo_common/
+neobotix_ws/src/neo_docking/
+neobotix_ws/src/neo_kinematics_mecanum/
+neobotix_ws/src/neo_kinematics_omnidrive/
+neobotix_ws/src/neo_local_planner/
+neobotix_ws/src/neo_localization/
+neobotix_ws/src/neo_msgs/
+neobotix_ws/src/neo_simulation/
+neobotix_ws/src/neo_srvs/
