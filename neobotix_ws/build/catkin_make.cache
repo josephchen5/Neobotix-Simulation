@@ -1,2 +1,0 @@
-ar_track_alvar/ar_track_alvar:ar_track_alvar/ar_track_alvar_msgs:neo_common:neo_docking:neo_kinematics_mecanum:neo_kinematics_omnidrive:neo_local_planner:neo_localization:neo_msgs:neo_simulation:neo_srvs
--DCATKIN_DEVEL_PREFIX=/home/josep/Neobotix-Simulation/neobotix_ws/devel -DCMAKE_INSTALL_PREFIX=/home/josep/Neobotix-Simulation/neobotix_ws/install -G Unix Makefiles
